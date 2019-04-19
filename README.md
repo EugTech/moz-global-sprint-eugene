@@ -1,5 +1,8 @@
 # Mozilla Global Sprint in Eugene
 
+## When & Where
+May 1-29th 2019 Downtown Eugene, OR
+
 ## Purpose
 To help local open source projects in Eugene, OR gain visibility and traction from the greater open source community.
 
